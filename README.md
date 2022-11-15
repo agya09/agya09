@@ -16,24 +16,24 @@ Student of Computer Science and Information Technology at Prithvi Narayan Campus
     <tr valign="top">
       <td width="20%" align="center">
         <span>PHP</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
         <span>C</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="20%" align="center">
         <span>Java</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
         <span>Django</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
     </tr>
     <td width="20%" align="center">
         <span>Flutter</span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
     
   </tbody>
