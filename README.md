@@ -1,8 +1,8 @@
 # Namaste :pray:
 
 
-## Hy I am Agya Pathak. 
-I am a student of Computer Science and Information Technology. I am a learner. I am developing my career in Web Development and Designing.
+## Hello, This is Agya. 
+Student of Computer Science and Information Technology at Prithvi Narayan Campus, Tribhuwan University. I am keen on web development as well as app development. I am practising php, java, django, flutter and bootstrap. 
 
 
 - 📫 my Contact Details: 
@@ -21,6 +21,14 @@ I am a student of Computer Science and Information Technology. I am a learner. I
       <td width="20%" align="center">
         <span>C</span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>C</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>C</span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
     </tr>
     
