@@ -13,7 +13,6 @@ Student of Computer Science and Information Technology at Prithvi Narayan Campus
 📫 Contact me here 👇🏼: 
 
  - 💌 Email: pathakagya07@gmail.com     
- - 📲 Phone number : +977 9816152872
  - 🏠 Location: Pokhara, Nepal
 
 ### Programming Languages 🌐
